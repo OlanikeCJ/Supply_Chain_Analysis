@@ -41,6 +41,8 @@ Some of the insights generated from the dataset include:
 
 ### 1. Revenue Insights and Trends
 
+![dashboard 1](https://github.com/OlanikeCJ/Supply_Chain_Analysis/blob/main/Images%20-%20Supplychain/dashboard.png?raw=true)
+
 #### **Revenue Performance Across SKU**
 > - SKU 51 had the highest total revenue ($9,866), while SKU 98 had the lowest ($8,526).
   

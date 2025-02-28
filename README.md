@@ -107,7 +107,7 @@ Some of the insights generated from the dataset include:
 ---
 ## Calculations
 
-Click to view DAX expressions used for these insights.
+Click [DAX](https://github.com/OlanikeCJ/Supply_Chain_Analysis/blob/main/DAX%20calculations) to view some of the calculations used for these insights.
 
 
 ## General Logistics Recommendations 

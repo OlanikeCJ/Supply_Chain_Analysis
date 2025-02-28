@@ -1,0 +1,26 @@
+```DAX
+% Sales by Product = 
+DIVIDE(SUM(supply_chain_data[Revenue generated]),CALCULATE(SUM(supply_chain_data[Revenue generated]), ALL(supply_chain_data))) * 100
+
+Average Defect Rate = 
+AVERAGE(supply_chain_data[Defect rates])
+
+Avg. Price = 
+AVERAGE(supply_chain_data[Price])
+
+Total Revenue = 
+SUM(supply_chain_data[Revenue generated])
+
+Total Shipping Cost = 
+sum(supply_chain_data[Shipping costs])
+
+Average Manufacturing Cost = 
+AVERAGE(supply_chain_data[Manufacturing costs])
+
+Average Lead Time = 
+AVERAGE(supply_chain_data[Lead time])
+
+Total Products Sold = 
+SUM(supply_chain_data[Number of products sold])
+
+```

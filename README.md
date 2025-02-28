@@ -36,6 +36,10 @@ The dataset includes the following features:
 - Rounded off numeric values for clarity.
 - Ensured consistency in categorical labels.
 
+I have included a snapshot of the cleaned dataset.
+
+![clean data](https://github.com/OlanikeCJ/Supply_Chain_Analysis/blob/main/Images%20-%20Supplychain/clean_data.png?raw=true)
+
 ## Insights and Recommendations
 Some of the insights generated from the dataset include: 
 

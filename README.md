@@ -70,6 +70,7 @@ Some of the insights generated from the dataset include:
 ---
 
 ### 2. Logistics and Transportation Insights
+![dashboard 2](https://github.com/OlanikeCJ/Supply_Chain_Analysis/blob/main/Images%20-%20Supplychain/dashboard%202.png?raw=true)
 
 #### **Average Defect Rate by Product Type & Transportation Mode** 
 
